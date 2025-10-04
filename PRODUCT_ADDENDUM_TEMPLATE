@@ -1,0 +1,103 @@
+Rovel Stars Product Addendum (Template)
+Version: [v1.0 or relevant version]
+Applies To: [Product Name and version]
+Reference License: Rovel Stars Software License (RSSL) v1.0
+──────────────────────────────────────────────────────────────────────────────
+NOTICE
+──────────────────────────────────────────────────────────────────────────────
+This Product Addendum supplements and modifies the terms of the Rovel Stars
+Software License (RSSL) v1.0 with additional, product-specific terms for the
+above product. It applies only to the named product and to any Forks or
+Derivative Works of that product as defined in the RSSL.  
+
+In the event of any conflict between this Addendum and the RSSL, this Addendum
+shall govern with respect to the product-specific matters described herein.
+
+──────────────────────────────────────────────────────────────────────────────
+1. PRODUCT DESCRIPTION
+──────────────────────────────────────────────────────────────────────────────
+Briefly describe the product here.  
+Example: “[Product Name] is a desktop operating system based on the Rovel Stars
+Software Platform, including open-source components and proprietary modules.”
+
+──────────────────────────────────────────────────────────────────────────────
+2. ADDITIONAL DEFINITIONS
+──────────────────────────────────────────────────────────────────────────────
+Define any terms that apply specifically to this product.
+
+Example:
+2.1 “Edition” means any named variant or configuration of the product (e.g.,
+     Community Edition, Enterprise Edition, Server Edition).
+2.2 “Official Update Channel” means the Rovel Stars-maintained service through
+     which signed updates, patches, or upgrades for this product are
+     distributed.
+2.3 “Partner” means an authorized organization certified by Rovel Stars to
+     distribute, preinstall, or support this product under an approved program.
+
+──────────────────────────────────────────────────────────────────────────────
+3. DISTRIBUTION & REDISTRIBUTION POLICY
+──────────────────────────────────────────────────────────────────────────────
+- Define whether redistribution is allowed for personal, educational, or
+  non-commercial purposes.
+- Define restrictions for commercial or enterprise redistribution.
+- State whether OEM or Partner distribution is available and under what terms.
+- Include the requirement to include this Addendum in any redistributions.
+
+──────────────────────────────────────────────────────────────────────────────
+4. CLOSED-SOURCE / PROPRIETARY MODULES
+──────────────────────────────────────────────────────────────────────────────
+Identify any proprietary or closed-source components, applications, or services
+included with this product that are *not* covered under the open-source RSSL.
+Describe user rights for such components (e.g., use but not modify).
+
+──────────────────────────────────────────────────────────────────────────────
+5. PARTNERS AND OEM DISTRIBUTORS
+──────────────────────────────────────────────────────────────────────────────
+Describe the policy for Partners, OEMs, and distributors:
+- Certification or approval process.
+- Prohibition on modifying Rovel Stars core applications unless authorized.
+- Rules for branding, signing, updates, and update-channel operation.
+- Privacy obligations and advertising restrictions.
+
+──────────────────────────────────────────────────────────────────────────────
+6. PRIVACY, TELEMETRY, AND USER CONSENT
+──────────────────────────────────────────────────────────────────────────────
+Describe product-specific telemetry or privacy terms, if any.
+Example:
+- Whether telemetry is opt-in or opt-out.
+- Data categories collected (if any).
+- Method for disabling or reviewing data collection.
+- Statement of compliance with RSSL Section 8.
+
+──────────────────────────────────────────────────────────────────────────────
+7. FEES, LICENSING, AND COMMERCIAL USE
+──────────────────────────────────────────────────────────────────────────────
+Specify product-specific pricing, licensing, or commercial-use conditions.
+Examples:
+- Enterprise license fees or subscription terms.
+- Partner certification fees.
+- Rights for Server Edition commercial hosting (if applicable).
+- Statement on non-refundability and potential future price changes.
+
+──────────────────────────────────────────────────────────────────────────────
+8. SECURITY AND UPDATE CHANNELS
+──────────────────────────────────────────────────────────────────────────────
+Define update signing and validation processes, including:
+- How updates are published, validated, and distributed.
+- Rules for Partner update submissions and quality review.
+- Recall and revocation policies for non-compliant updates.
+
+──────────────────────────────────────────────────────────────────────────────
+9. TERMINATION OR SUSPENSION
+──────────────────────────────────────────────────────────────────────────────
+Describe any additional termination or suspension rules that are product-
+specific, such as:
+- Partner certification revocation.
+- Enterprise license suspension for misuse.
+- User account blocking for policy violations.
+
+──────────────────────────────────────────────────────────────────────────────
+10. GOVERNANCE
+──────────────────────────────────────────────────────────────────────────────
+Only Rovel Stars may amend or withdraw this Addendum. Unauthorized alterations
+or replacements are void and without effect.
